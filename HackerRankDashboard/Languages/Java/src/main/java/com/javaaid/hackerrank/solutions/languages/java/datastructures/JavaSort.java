@@ -77,3 +77,29 @@ public class JavaSort {
 		in.close();
 	}
 }
+
+
+Input (stdin)
+
+Download
+5
+33 Rumpa 3.68
+85 Ashis 3.85
+56 Samiha 3.75
+19 Samara 3.75
+22 Fahim 3.76
+Your Output (stdout)
+Ashis
+Fahim
+Samara
+Samiha
+Rumpa
+Expected Output
+
+Download
+Ashis
+Fahim
+Samara
+Samiha
+Rumpa
+Contest CalendarBlogScoringEnvironmentFAQAbout UsSupportCareersTerms Of ServicePrivacy PolicyRequest a Feature
